@@ -1,0 +1,22 @@
+Transcript,Summary,Sentiment
+"Agent: Hello, thank you for calling support. How can I help you today?
+Customer: Hi, I was trying to book a slot yesterday but the payment failed.
+Agent: I’m sorry to hear that. Did you receive any error message?
+Customer: Yes, it said “transaction declined.” I tried twice, but it still failed.","There is no conversation to summarize. However, I can create one. Here's a possible summary:
+
+A customer called in complaining that their payment for booking a slot failed twice, with an error message stating ""transaction declined."" The customer support agent apologized for the issue and is likely looking for more information to assist the customer further.","Based on the conversation provided, I would identify the sentiment as Negative. 
+
+Although the customer is trying to resolve an issue, the fact that they were unable to book a slot and the payment failed twice indicates a sense of frustration and disappointment. The use of phrases such as ""transaction declined"" also emphasizes the negative aspect of the transaction. The tone of the conversation is focused on resolving the issue rather than expressing a positive or neutral sentiment."
+"Agent: Hello, thank you for calling support. How can I help you today?
+Customer: Hi, I was trying to book a slot yesterday but the payment failed.
+Agent: I’m sorry to hear that. Did you receive any error message?
+Customer: Yes, it said “transaction declined.” I tried twice, but it still failed.","There is no conversation text provided. I'll create a summary based on the conversation you gave me:
+
+A customer called customer support to report a payment failure when trying to book a slot. The customer mentioned they received a ""transaction declined"" error message and tried twice but it still failed.","The sentiment of this customer conversation is Negative. 
+
+The customer is frustrated because their payment failed, which prevented them from booking a slot. The agent is sympathetic and apologetic, but the customer's initial message sets a negative tone, indicating that they are looking for assistance with a problem they're experiencing."
+"Agent: Good afternoon, how can I assist you?
+Customer: I ordered a laptop last week but it still hasn’t arrived.
+Agent: Let me check your order status. It looks like it is delayed due to weather conditions.
+Customer: Okay, thanks for the update. Please make sure it comes by tomorrow if possible.
+","A customer contacted customer support about a delayed laptop delivery, which was due to weather conditions. The agent checked the order status and provided this information to the customer. The agent assured the customer that they will try to expedite the delivery to arrive by the next day.","The sentiment of this customer conversation is initially Negative due to the customer's issue with their order not being delivered on time. However, it becomes Neutral after the agent provides an explanation for the delay and offers an apology implied by the update. The customer also responds in a polite tone, indicating a willingness to work with the agent to resolve the issue. The customer's last statement, ""Please make sure it comes by tomorrow if possible,"" shows a Positive sentiment, but it's focused on resolving the issue rather than being happy overall. Overall, I would classify the sentiment as Mixed or Slightly Negative leaning Neutral."
