@@ -1,23 +1,11 @@
-"""
-Mini Tech Challenge
--------------------
-This Python app:
-  1. Takes a customer call transcript (via Flask UI)
-  2. Summarizes the conversation using Groq API
-  3. Detects sentiment (Positive / Neutral / Negative)
-  4. Saves results into call_recordings/call_analysis.csv
-
-API key is stored in .env file for safety.
-"""
-
 import os
 import pandas as pd
 from flask import Flask, request, jsonify, render_template_string
 from groq import Groq
 from dotenv import load_dotenv
 
-load_dotenv()  
-app = Flask(__name__)
+load_dotenv()    
+app = Flask(__name__) #Create the Flask application object. __name__ tells Flask where to find static files/templates if needed.
 groq_client = Groq(api_key=os.getenv("GROQ_API_KEY"))
 
 HTML_FORM = """
